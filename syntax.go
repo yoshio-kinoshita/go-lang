@@ -1,11 +1,12 @@
 package main
 
-import (
-	"fmt"
-)
-
-
 
 func main() {
-	fmt.Println("Hello, World!")
+    a := [3]string{"yamada taro", "suzuki jiro", "ito kenji"}
+
+    b := [3]string{
+        "yamada taro",
+        "suzuki jiro",
+        "ito kenji",
+    }
 }
